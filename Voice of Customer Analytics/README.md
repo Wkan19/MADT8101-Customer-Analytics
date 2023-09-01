@@ -4,9 +4,9 @@ Voice of Customer Analytics (VoC Analytics) is the process of collecting and **a
 ## What's in this project 💼
 In this project, the customer feedback I analyzed was the review comments of customers from TripAdvisor of a restaurant in Bangkok, Thailand named *The House of Smooth Curry*
 
-**Notebook:** 
+**Notebook:** [Voice of Customer](https://github.com/Wkan19/MADT8101-Customer-Analytics/blob/a401599f311e1860f1753ed29b6c568f7e740b56/Voice%20of%20Customer%20Analytics/GitHub_Voice_of_Customers.ipynb)
 
-### Dataset 
+**Dataset:** 
 
 
 ## Benefit/ Business Recommendation/ Recommendation/ Concern 
