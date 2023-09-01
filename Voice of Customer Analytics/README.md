@@ -2,10 +2,10 @@
 Voice of Customer Analytics (VoC Analytics) is the process of collecting and **analyzing customer feedback** to understand their needs and wants. The feedback can be analyzed to identify trends, pain points, and opportunities for improvement. VoC Analytics can also be used to track customer satisfaction over time and to identify areas where the customer experience can be improved.
 
 ## What's in this project
-In this project, the customer feedback I analyzed was the review comments of customer from Tripadvisor of a restaurant in Bangkok, Thailand named *The House of Smooth Curry*
+In this project, the customer feedback I analyzed was the review comments of customers from TripAdvisor of a restaurant in Bangkok, Thailand named *The House of Smooth Curry*
 
-##How 
-บอก steps 
+
+
 
 ## Benefit/ Business Recommendation/ Recommendation/ Concern 
 
