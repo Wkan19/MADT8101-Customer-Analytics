@@ -6,6 +6,8 @@ Customer Lifetime Value (CLV) is the measure of the value of a customer's entire
 ## What's in this project 💼
 The following work is the **modified version** of the in-class group [assignment](https://github.com/Wkan19/MADT8101-Customer-Analytics/blob/main/Customer%20Lifetime%20Value/Dusit%20Thani%20Customer%20Loyalty%20Program.pdf) presented by Satorn Onsri, Jamjuree Kongkaew, Kittabhas Suksai, Chaiwat Premrudikul, Kiriwat Anantakul, Prawit Danpittaporn, and Worakan Charoensri (me)
 
+This work aims to design the **hotel customer lifetime value formula**🏨
+
 The Customer Lifetime Value Version 1 was 
 
  ![clv-v1](./clv-v1.png)
@@ -13,7 +15,7 @@ The Customer Lifetime Value Version 1 was
 
 In the new CLV formula, I have added the **average spending on additional services per stay**. This is a significant factor for hotels, as customers who order room service or spa treatments will have a higher CLV than those who only stay at the hotel. I have also included the customer **acquisition cost**, which is the cost of acquiring a new customer. This is important to consider, as it affects the amount of profit that a hotel can make from each customer.
 
-The new Customer Lifetime Value is
+💡**The new Customer Lifetime Value is**
 
 ![clv-v2](./clv-v2.png)
 
@@ -25,6 +27,7 @@ The new Customer Lifetime Value is
 **Notebook:** [Customer Lifetime Value](https://github.com/Wkan19/MADT8101-Customer-Analytics/blob/main/Customer%20Lifetime%20Value/GitHub_Customer_Lifetime_Value.ipynb)
 
 **Result**
+
 ![clv-result](./clv-result.png)
 
 
