@@ -59,7 +59,9 @@ Here are some examples of attributions for a retail customer single view table, 
 ## SQL Query Example 
 
 **Data Source:** [Retail Analytics Sample Database](https://docs.yugabyte.com/preview/sample-data/retail-analytics/)
+
 **SQL Query:** [Example SQL Query for Retail Customer Single View Table](https://github.com/Wkan19/MADT8101-Customer-Analytics/blob/main/Customer%20Data%20Platform%20and%20Customer%20Single%20View/retail-csv-example.sql)
+
 **Result**
 
 
