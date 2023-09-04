@@ -24,9 +24,9 @@ In the new CLV formula, I have added the **average spending on additional servic
 * **Dataset:** [Hotel Booking](https://github.com/Wkan19/MADT8101-Customer-Analytics/blob/main/Customer%20Lifetime%20Value/GitHub%20Generate%20Hotel%20Booking.csv)
 *Note: The dataset is generated*
 
-**Notebook:** [Customer Lifetime Value](https://github.com/Wkan19/MADT8101-Customer-Analytics/blob/main/Customer%20Lifetime%20Value/GitHub_Customer_Lifetime_Value.ipynb)
+* **Notebook:** [Customer Lifetime Value](https://github.com/Wkan19/MADT8101-Customer-Analytics/blob/main/Customer%20Lifetime%20Value/GitHub_Customer_Lifetime_Value.ipynb)
 
-**Result**
+* **Result**
 
 ![clv-result](./clv-result.png)
 
