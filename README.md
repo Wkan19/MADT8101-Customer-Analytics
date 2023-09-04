@@ -15,19 +15,19 @@ I'm excited to share my work with you. These projects were created during my stu
    
 ![Concept badge](https://img.shields.io/badge/-Concept-blue.svg) ![Presentation badge](https://img.shields.io/badge/-Presentation-blue.svg) ![SQL badge](https://img.shields.io/badge/-SQL-green.svg)
    
- - Customer Lifetime Value
+ - [Customer Lifetime Value](https://github.com/Wkan19/MADT8101-Customer-Analytics/tree/main/Customer%20Lifetime%20Value)
    
 ![Concept badge](https://img.shields.io/badge/-Concept-blue.svg) ![Presentation badge](https://img.shields.io/badge/-Presentation-blue.svg)  ![Python badge](https://img.shields.io/badge/-Python-green.svg)
 
- - Customer Scoring and Basic Churn Prediction
+ - [Customer Scoring and Basic Churn Prediction]()
  
  ![GG-Colab badge](https://img.shields.io/badge/-Google--Colab-blue.svg) ![Python badge](https://img.shields.io/badge/-Python-green.svg)
 
- - Customer Segmentation and Product Recommendation
+ - [Customer Segmentation and Product Recommendation]()
 
  ![GG-Colab badge](https://img.shields.io/badge/-Google--Colab-blue.svg) ![Python badge](https://img.shields.io/badge/-Python-green.svg)
    
- - Voice of Customer Analytics
+ - [Voice of Customer Analytics]()
 
  ![GG-Colab badge](https://img.shields.io/badge/-Google--Colab-blue.svg) ![Python badge](https://img.shields.io/badge/-Python-green.svg)
 
