@@ -1,5 +1,5 @@
 # Customer Data Platform 🔎
-![Concept badge](https://img.shields.io/badge/-Concept-blue.svg) ![Presentation badge](https://img.shields.io/badge/-Presentation-blue.svg) ![SQL badge](https://img.shields.io/badge/-SQL-green.svg)
+![Concept badge](https://img.shields.io/badge/-Concept-blue.svg) ![Presentation badge](https://img.shields.io/badge/-Presentation-blue.svg) 
 
 
 A customer data platform (CDP) is a software solution that creates a persistent, unifies customer database **from a variety of sources**. The goal of a CDP is to provide businesses with a 360-degree view of their customers by enabling other analytics tools to use the data and provide actionable insights.
@@ -49,5 +49,10 @@ A Customer Single View (CSV) is a **unified and easily accessible repository of 
 
 ## Example of Customer Single View for Retail Business 
 
-Query xample 
+ ![csv-retail](./csv-retail.png)
+
+ 
+## SQL Query Example 
+
+**Data Source:** [Retail Analytics Sample Database](https://docs.yugabyte.com/preview/sample-data/retail-analytics/)
 
