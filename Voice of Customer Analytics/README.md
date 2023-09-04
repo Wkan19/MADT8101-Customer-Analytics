@@ -12,18 +12,29 @@ In this project, the customer feedback I analyzed was the review comments of cus
 
 ## Process
 * **Tokenize Words:** Tokenizes the words in the data set, removing stop words and other unwanted characters.
-  ![Tokeniz-Word](./Tokenize-Word.png) 
+  
+  ![tokeniz-word](./tokenize-word.png)
+  
 * **Create Dictionary:** Creates a dictionary of words, mapping each word to a unique integer ID.
+
+  Example of creating dictionary result
+  
+  ![create-dict-key](./create-dict-key.png)
+ 
 * **Gensim Corpus:** Creates a gensim corpus, which is a representation of the data set that is used by the topic modeling algorithm.
+  
 * **Topic Modeling:** Performs topic modeling on the data set, using the LDA algorithm. The LDA algorithm identifies 30 topics in the data set.
+  
 * **Visualize Result:** Visualizes the results of the topic modeling using pyLDAvis.
+  
+  ![voc-reult](./voc-result.png)
 
 
-## Tokenize Words:
-Starts by defining a list of Thai stopwords and removing them, which are common words that may not carry substantial meaning in the analysis. Additionally, a list of removed words is created, including whitespace characters and specific terms like 'ร้าน' and punctuation.
+  Focusing on Topic 1
+  
+  ![voc-reult-topic-1](./voc-result-topic-1.png)
 
-
-
+As the result shows, Topic 1 indicates that customer reviews mostly praise the food, service, and atmosphere. This suggests that the restaurant has overall excellent performance in these areas.
 
 
 ## Benefit/ Business Recommendation/ Recommendation/ Concern 
