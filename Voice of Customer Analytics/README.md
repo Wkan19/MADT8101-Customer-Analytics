@@ -8,7 +8,7 @@ In this project, the customer feedback I analyzed was the review comments of cus
 **Google Colab:**[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cYvGnyKus5x7XRc2T9UbrQJwMcN7ibIe?usp=sharing)  
 **Notebook:** [Voice of Customer](https://github.com/Wkan19/MADT8101-Customer-Analytics/blob/a401599f311e1860f1753ed29b6c568f7e740b56/Voice%20of%20Customer%20Analytics/GitHub_Voice_of_Customers.ipynb)
 
-**Dataset:**  [The House of Smooth Curry Review]() 
+**Dataset:**  [The House of Smooth Curry Review](https://github.com/Wkan19/MADT8101-Customer-Analytics/blob/main/Voice%20of%20Customer%20Analytics/The%20House%20Of%20Smooth%20Curry%20Review.csv) 
 
 
 ## Benefit/ Business Recommendation/ Recommendation/ Concern 
