@@ -10,6 +10,13 @@ In this project, the customer feedback I analyzed was the review comments of cus
 
 **Dataset:**  [The House of Smooth Curry Review](https://github.com/Wkan19/MADT8101-Customer-Analytics/blob/main/Voice%20of%20Customer%20Analytics/The%20House%20Of%20Smooth%20Curry%20Review.csv) 
 
+## Tokenize Words:
+Starts by defining a list of Thai stopwords and removing them, which are common words that may not carry substantial meaning in the analysis. Additionally, a list of removed words is created, including whitespace characters and specific terms like 'ร้าน' and punctuation.
+
+!Tokenize Word](./topic-term.png) แก้ลิ้งรูป
+
+
+
 
 ## Benefit/ Business Recommendation/ Recommendation/ Concern 
 
