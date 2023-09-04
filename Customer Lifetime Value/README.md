@@ -1,4 +1,6 @@
 # Customer Lifetime Value 🔎
+![Concept badge](https://img.shields.io/badge/-Concept-blue.svg) ![Presentation badge](https://img.shields.io/badge/-Presentation-blue.svg)  ![Python badge](https://img.shields.io/badge/-Python-green.svg)
+
 Customer Lifetime Value (CLV) is the measure of the value of a customer's entire relationship expected to generate from a customer over the course of their relationship with the company. 
 
 *Remember that different businesses have different customer's behavior*
