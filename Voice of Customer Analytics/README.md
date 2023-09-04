@@ -1,6 +1,7 @@
 # Voice of Customer Analytics 🔎
 Voice of Customer Analytics (VoC Analytics) is the process of collecting and **analyzing customer feedback** to understand their needs and wants. The feedback can be analyzed to identify trends, pain points, and opportunities for improvement. VoC Analytics can also be used to track customer satisfaction over time and to identify areas where the customer experience can be improved.
 
+
 ## What's in this project 💼
 In this project, the customer feedback I analyzed was the review comments of customers from TripAdvisor of a restaurant in Bangkok, Thailand named *The House of Smooth Curry*
 
@@ -10,7 +11,8 @@ In this project, the customer feedback I analyzed was the review comments of cus
 
 **Dataset:**  [The House of Smooth Curry Review](https://github.com/Wkan19/MADT8101-Customer-Analytics/blob/main/Voice%20of%20Customer%20Analytics/The%20House%20Of%20Smooth%20Curry%20Review.csv) 
 
-## Process
+
+## Process⚙️
 * **Tokenize Words:** Tokenizes the words in the data set, removing stop words and other unwanted characters.
   
   ![tokeniz-word](./tokenize-word.png)
@@ -37,8 +39,8 @@ In this project, the customer feedback I analyzed was the review comments of cus
 As the result shows, Topic 1 indicates that customer reviews mostly praise the food, service, and atmosphere. This suggests that the restaurant has overall excellent performance in these areas.
 
 
-## Business Recommendation
-By conducting a Voice of Customer Analysis, the restaurant can enhance customer loyalty by **consistently delivering exceptional customer experiences**. By recognizing and capitalizing on their strengths in providing top-notch service, delicious food, and an inviting atmosphere, the restaurant can establish these qualities as their *competitive advantages*. This strategic approach will contribute to **sustained customer loyalty and business growth**.
+## Business Recommendation 💪📈
+By conducting a Voice of Customer Analysis, the restaurant can enhance customer loyalty by **consistently delivering exceptional customer experiences**. By recognizing and capitalizing on their strengths in providing top-notch service, delicious food, and an inviting atmosphere, the restaurant can establish these qualities as their ***competitive advantages***. This strategic approach will contribute to **sustained customer loyalty and business growth**.
 
 
 ### Reference
