@@ -49,10 +49,17 @@ A Customer Single View (CSV) is a **unified and easily accessible repository of 
 
 ## Example of Customer Single View for Retail Business 
 
+Here are some examples of attributions for a retail customer single view table, which I have grouped into 6 groups.
+
+
+
  ![csv-retail](./csv-retail.png)
 
  
 ## SQL Query Example 
 
 **Data Source:** [Retail Analytics Sample Database](https://docs.yugabyte.com/preview/sample-data/retail-analytics/)
+**SQL Query:** [Example SQL Query for Retail Customer Single View Table]()
+**Result**
+
 
