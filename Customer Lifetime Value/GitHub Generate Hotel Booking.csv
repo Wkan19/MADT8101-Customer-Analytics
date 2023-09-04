@@ -1,0 +1,17 @@
+﻿Booking Date,Booking Number,Check-in,Check-out,Stay Month,# of night,# of room,# of room night,Adult,Child,Guest Name,Gender,Nationality,Lead Time,Booking Status,Payment Gateway,Room type,Room Revenue,Service Revenue,Total Revenue
+8/1/2023,B12345,8/15/2023,8/20/2023,August,5,2,10,2,1,John Smith,Male,USA,60,Confirmed,Visa,Deluxe Room,800,200,1000
+8/5/2023,B12346,8/10/2023,8/12/2023,August,2,1,2,1,0,Sarah Johnson,Female,Canada,30,Confirmed,Mastercard,Standard Room,300,50,350
+8/5/2023,B12346,8/10/2023,8/12/2023,August,2,1,2,1,0,Sarah Johnson,Female,Canada,30,Confirmed,Mastercard,Standard Room,300,50,350
+8/10/2023,B12347,8/25/2023,8/30/2023,August,5,1,5,1,0,Maria Garcia,Female,Spain,90,Confirmed,Amex,Suite,600,200,800
+8/10/2023,B12347,8/25/2023,8/30/2023,August,5,1,5,1,0,Maria Garcia,Female,Spain,90,Confirmed,Amex,Suite,600,200,800
+8/15/2023,B12348,9/1/2023,9/10/2023,September,9,3,27,2,1,David Kim,Male,South Korea,60,Confirmed,Visa,Family Room,900,100,1000
+8/15/2023,B12348,9/1/2023,9/10/2023,September,9,3,27,2,1,David Kim,Male,South Korea,60,Confirmed,Visa,Family Room,900,100,1000
+8/20/2023,B12349,8/27/2023,8/28/2023,August,1,1,1,1,0,Emily Chen,Female,China,7,Confirmed,Alipay,Standard Room,180,20,200
+8/20/2023,B12349,8/27/2023,8/28/2023,August,1,1,1,1,0,Emily Chen,Female,China,7,Confirmed,Alipay,Standard Room,180,20,200
+8/25/2023,B12350,9/5/2023,9/10/2023,September,5,1,5,1,0,Maria Garcia,Female,Spain,90,Confirmed,Visa,Suite,600,100,700
+8/25/2023,B12350,9/5/2023,9/10/2023,September,5,1,5,1,0,Maria Garcia,Female,Spain,90,Confirmed,Visa,Suite,600,100,700
+8/30/2023,B12351,9/15/2023,9/17/2023,September,2,1,2,1,0,John Smith,Male,USA,60,Confirmed,Visa,Standard Room,250,50,300
+9/1/2023,B12352,9/15/2023,9/20/2023,September,5,1,5,1,0,John Smith,Male,USA,60,Confirmed,Visa,Deluxe Room,800,200,1000
+9/5/2023,B12353,9/10/2023,9/12/2023,September,2,1,2,1,0,Sarah Johnson,Female,Canada,30,Confirmed,Mastercard,Standard Room,300,50,350
+9/10/2023,B12354,9/25/2023,9/30/2023,September,5,1,5,1,0,Maria Garcia,Female,Spain,90,Confirmed,Amex,Suite,600,200,800
+9/15/2023,B12355,10/1/2023,10/10/2023,October,9,2,18,2,0,David Kim,Male,South Korea,60,Confirmed,Visa,Family Room,900,100,1000
