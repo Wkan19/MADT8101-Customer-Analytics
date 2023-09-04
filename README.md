@@ -11,7 +11,7 @@ I'm excited to share my work with you. These projects were created during my stu
 **Notebook:** [Voice of Customer](https://github.com/Wkan19/MADT8101-Customer-Analytics/blob/a401599f311e1860f1753ed29b6c568f7e740b56/Voice%20of%20Customer%20Analytics/GitHub_Voice_of_Customers.ipynb)
 
 # Table of Contents 
- - [Customer Data Platform and Customer Single View]()
+ - [Customer Data Platform and Customer Single View](https://github.com/Wkan19/MADT8101-Customer-Analytics/tree/main/Customer%20Data%20Platform%20and%20Customer%20Single%20View)
    
 ![Concept badge](https://img.shields.io/badge/-Concept-blue.svg) ![Presentation badge](https://img.shields.io/badge/-Presentation-blue.svg) ![SQL badge](https://img.shields.io/badge/-SQL-green.svg)
    
