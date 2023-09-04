@@ -12,7 +12,7 @@ In this project, the customer feedback I analyzed was the review comments of cus
 
 ## Process
 * **Tokenize Words:** Tokenizes the words in the data set, removing stop words and other unwanted characters.
-  
+  ![Tokeniz-Word](./Tokenize-Word.png) 
 * **Create Dictionary:** Creates a dictionary of words, mapping each word to a unique integer ID.
 * **Gensim Corpus:** Creates a gensim corpus, which is a representation of the data set that is used by the topic modeling algorithm.
 * **Topic Modeling:** Performs topic modeling on the data set, using the LDA algorithm. The LDA algorithm identifies 30 topics in the data set.
@@ -22,7 +22,6 @@ In this project, the customer feedback I analyzed was the review comments of cus
 ## Tokenize Words:
 Starts by defining a list of Thai stopwords and removing them, which are common words that may not carry substantial meaning in the analysis. Additionally, a list of removed words is created, including whitespace characters and specific terms like 'ร้าน' and punctuation.
 
-!Tokenize Word](./topic-term.png) แก้ลิ้งรูป
 
 
 
