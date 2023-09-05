@@ -153,9 +153,9 @@ Here are the important features that contribute to the selected model:  **Oversa
  
 ## Business Recommendations 🌟
 
-* The business should determine what they will do with the results of the churn prediction. They need to decide whether they will try to retain customers who have a high churn probability, and if so, whether it is worth the cost.
-* The business should be cautious when trying to retain customers who are about to churn. Sometimes, the "triggers" that businesses use to try to retain customers can actually increase the churn probability.
-* The business should develop strategies to lower the churn probability. This could involve improving customer service, offering discounts or incentives, or making changes to the product or service.
+* The business should determine what they will do with the results of the churn prediction. They need to **decide** whether they will try to retain customers who have a high churn probability, and if so, whether it is worth the cost.
+* The business should **be cautious when trying to retain customers** who are about to churn. Sometimes, the "triggers" that businesses use to try to retain customers can actually increase the churn probability.
+* The business should **develop strategies** to lower the churn probability. This could involve improving customer service, offering discounts or incentives, or making changes to the product or service.
 
 ## Further Analysis
 
