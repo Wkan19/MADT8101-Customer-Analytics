@@ -12,7 +12,9 @@ In this work, I explored the E-Commerce Customer Dataset with *Churn Prediction*
 
 * **Dataset:** [E-commerce Customers Dataset](https://github.com/Wkan19/MADT8101-Customer-Analytics/blob/main/Customer%20Scoring%20and%20Basic%20Churn%20Prediction/EcommerceCust.csv)
 
-* **Data Dictionary** 
+* **Data Dictionary**
+
+ ![data-dict-ecom](./data-dict-ecom.png)
 
 
 
