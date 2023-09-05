@@ -19,7 +19,13 @@ The scoring methods ideas for retail business are:
 
 **Criteria Example** 
   ![churn-scoring-idea](./churn-scoring-idea.png)
-  
+
+Since the business can assign scores to each customer, they can come up with different treatments for each customer. For example:
+
+* Customers with 1-30 score points will receive regular sales promotions.
+* Customers with 31-60 score points will receive extra discounts.
+* Customers with 61-80 score points will receive extra discounts and cashback.
+* Customers with 81-100 score points will receive extra discounts, cashback, and early-bird access to promotions. 
 
 
 
