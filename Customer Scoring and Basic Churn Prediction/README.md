@@ -1,5 +1,27 @@
 # Customer Scoring 🔎
 
+Customer scoring is the practice of **assigning a score to each customer** based on their value to the business. This score can then be used to *provide different treatment or privileges* to customers.
+
+The specific Customer Scoring method that a business uses will depend on its **goals and objectives**. For example:
+
+* Banks might use a Customer Scoring method that is based on the customer's wealth or assets under management.
+* Airlines might use a Customer Scoring method that is based on the number of miles the customer has flown.
+
+## Customer Scoring Ideas 💡
+
+A Customer Scoring method for a business can be a *combination of multiple methods*. In this case, I will demonstrate with **Retail Business**.  
+
+The scoring methods ideas for retail business are: 
+
+* **Recency, Frequency, and Monetary value (RFM)**
+* **Customer Lifetime Value (CLTV):**
+* **Churn Score**
+
+**Criteria Example** 
+  ![churn-scoring-idea](./churn-scoring-idea.png)
+  
+
+
 
 # Customer Churn Prediction 🔎
 ![GG-Colab badge](https://img.shields.io/badge/-Google--Colab-blue.svg) ![Python badge](https://img.shields.io/badge/-Python-green.svg) ![Classification badge](https://img.shields.io/badge/-Classification-orange.svg) ![Logistic Regression badge](https://img.shields.io/badge/-Logistic--Regression-orange.svg) ![Random Forest badge](https://img.shields.io/badge/-Random--Forest-orange.svg) ![K Nearest Neighbors badge](https://img.shields.io/badge/-K--Nearest--Neighbors-orange.svg) ![XGBoost badge](https://img.shields.io/badge/-XGBoost-orange.svg) 
