@@ -164,5 +164,6 @@ Here are the important features that contribute to the selected model:  **Oversa
 * Finally, the business could use the churn prediction results to predict whether customers who have reactivated will churn again. This could help the business to identify customers who need extra support to stay engaged.
 
 ### Reference
+
 * Provost, F., & Fawcett, T. (2013). Data science for business: What you need to know about data mining and data-analytic thinking. O'Reilly Media, Inc.
 
