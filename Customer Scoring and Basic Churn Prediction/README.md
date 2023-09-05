@@ -1,5 +1,6 @@
 # Customer Scoring 🔎
 ![Concept badge](https://img.shields.io/badge/-Concept-blue.svg) 
+
 Customer scoring is the practice of **assigning a score to each customer** based on their value to the business. This score can then be used to *provide different treatment or privileges* to customers.
 
 The specific Customer Scoring method that a business uses will depend on its **goals and objectives**. For example:
