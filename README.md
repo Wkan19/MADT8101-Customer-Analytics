@@ -5,7 +5,7 @@
 
 I'm excited to share my works with you. These projects were created during my studies in Summer 2023, and they cover a variety of topics in Customer Analytics, including **Customer Data Platforms**, **Customer Lifetime Value**, **Customer Scoring**, **Customer Segmentation**, **Product Recommendation**, and **Voice of Customer Analytics**🚀🔍📈
 
-📍I hope you enjoy exploring my work! If you have any questions or comments, please don't hesitate to contact me via ✉️ wkan.charoensri@gmail.com 
+📍I hope you enjoy exploring my works! If you have any questions or comments, please don't hesitate to contact me via ✉️ wkan.charoensri@gmail.com 
 
 
 **Notebook:** [Voice of Customer](https://github.com/Wkan19/MADT8101-Customer-Analytics/blob/a401599f311e1860f1753ed29b6c568f7e740b56/Voice%20of%20Customer%20Analytics/GitHub_Voice_of_Customers.ipynb)
