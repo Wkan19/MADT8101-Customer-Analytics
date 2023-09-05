@@ -23,47 +23,85 @@ In this case, the customer I explored is a *non-contractual customer*, which mea
 ## Process ⚙️
 **Notebook:** [Churn Prediction](https://github.com/Wkan19/MADT8101-Customer-Analytics/blob/main/Customer%20Scoring%20and%20Basic%20Churn%20Prediction/GitHub_Churn_Prediction.ipynb)
 
-### Explore Data 
+### Explore Data 🔦
 
-In this step, I explored the dataset using different approaches as following: 
+In this step, I explored the dataset using different approaches as follows: 
 
-* Data Type
+* **Data Type**
   
    ![churn-dtype](./churn-dtype.png)
 
-* Check for null
+* **Check for null**
 
    ![churn-isna](./churn-isna.png)
 
-  * Check for the unique value
+  * **Check for the unique value**
 
   I also explored the dataset by visualizing its variables, for example
 
-  * Average Tenure by Churn
+  * **Average Tenure by Churn**
  
    ![churn-avgten-churn](./churn-avgten-churn.png)
 
-  * Number of Customers by Churn
+  * **Number of Customers by Churn**
 
    ![churn-nocust-churn](./churn-nocust-churn.png)
 
-  * Hour Spend on App by Churn
+  * **Hour Spend on App by Churn**
  
   ![churn-hourspend-churn](./churn-hourspend-churn.png)
 
-  * Number of Coupons Used by Churn
+  * **Number of Coupons Used by Churn**
   
   ![churn-nocoup-churn](./churn-nocoup-churn.png)
 
-  * Churned Customers by Number of Coupon Used
+  * **Churned Customers by Number of Coupons Used**
  
-  ![churn-nochurn-coup](./churn-nochurn-coup.png)  
-    
-
+  ![churn-nochurn-coup](./churn-nochurn-coup.png)
   
+    
+The visualization shows that churned customers tend to have shorter tenure, spend less time on the app, and use fewer coupons than non-churned customers.
+
+### Data Cleansing and Processing 🧹⚙️
+
+In this step, I cleaned and processed the data as follows: 
+
+* **Handle Data Type**
+* **Check and Drop Columns with more than 30% of missing value**
+* **Handle Null**
+* **Check and Remove Duplicate Value**
+*  **Check and Remove Columns with Outliers**
+*  **One-hot Encoding the Categorical Data**
+
+Then after processing the data, I split the variables into X and Y for classification models. 
+
+  ![churn-split-data](./churn-split-data.png)
 
 
+### Classification Models
 
+In this step, 60% of the data will be used for training models, while the remaining 40% will be used for testing. 
+
+The models I experimented with are: 
+
+* Logistic Regression
+* Random Forest
+* K Nearest Neighbors
+* XGBoost
+
+After that, since the data of churned customers is imbalanced, I introduced methods to handle it: 
+
+*SMOTE
+*Oversampling
+*Undersampling
+
+and also tuned the models 
+
+### Evaluate the models 🏅
+
+Here is the result of the experimented models.
+
+  ![churn-model-result](./churn-model-result.png)
 
 ### Reference:
 Provost, F., & Fawcett, T. (2013). Data science for business: What you need to know about data mining and data-analytic thinking. O'Reilly Media, Inc.
