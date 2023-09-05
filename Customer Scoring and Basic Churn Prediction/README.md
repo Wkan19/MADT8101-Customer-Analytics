@@ -42,6 +42,8 @@ In this work, I explored the E-Commerce Customer Dataset with *Churn Prediction*
 
 In this case, the customer I explored is a *non-contractual customer*, which means there is no clear end date for when the customer will actually churn.
 
+* **Notebook:** [Basic Churn Prediction](https://github.com/Wkan19/MADT8101-Customer-Analytics/blob/main/Customer%20Scoring%20and%20Basic%20Churn%20Prediction/GitHub_Churn_Prediction.ipynb)
+
 * **Dataset:** [E-commerce Customers Dataset](https://github.com/Wkan19/MADT8101-Customer-Analytics/blob/main/Customer%20Scoring%20and%20Basic%20Churn%20Prediction/EcommerceCust.csv)
 
 * **Data Dictionary**
