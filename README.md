@@ -21,7 +21,9 @@ I'm excited to share my work with you. These projects were created during my stu
 
  - [Customer Scoring and Basic Churn Prediction](https://github.com/Wkan19/MADT8101-Customer-Analytics/tree/main/Customer%20Scoring%20and%20Basic%20Churn%20Prediction)
  
- ![GG-Colab badge](https://img.shields.io/badge/-Google--Colab-blue.svg) ![Python badge](https://img.shields.io/badge/-Python-green.svg)
+![Concept badge](https://img.shields.io/badge/-Concept-blue.svg) ![GG-Colab badge](https://img.shields.io/badge/-Google--Colab-blue.svg) ![Python badge](https://img.shields.io/badge/-Python-green.svg) ![Classification badge](https://img.shields.io/badge/-Classification-orange.svg) ![Logistic Regression badge](https://img.shields.io/badge/-Logistic--Regression-orange.svg) ![Random Forest badge](https://img.shields.io/badge/-Random--Forest-orange.svg) ![K Nearest Neighbors badge](https://img.shields.io/badge/-K--Nearest--Neighbors-orange.svg) ![XGBoost badge](https://img.shields.io/badge/-XGBoost-orange.svg) 
+![Undersampling badge](https://img.shields.io/badge/-Undersampling-orange.svg) ![Oversampling badge](https://img.shields.io/badge/-Oversampling-orange.svg) ![SMOTE badge](https://img.shields.io/badge/-SMOTE-orange.svg)
+
 
  - [Customer Segmentation and Product Recommendation](https://github.com/Wkan19/MADT8101-Customer-Analytics/tree/main/Customer%20Segmentation%20and%20Product%20Recommendation)
 
@@ -34,11 +36,3 @@ I'm excited to share my work with you. These projects were created during my stu
 
 
   
-
-![SQL badge](https://img.shields.io/badge/-SQL-green.svg)
-
-![Concept badge](https://img.shields.io/badge/-Concept-blue.svg)
-
-![Presentation badge](https://img.shields.io/badge/-Presentation-blue.svg)
-
-![GG-Colab badge](https://img.shields.io/badge/-Google--Colab-blue.svg)
