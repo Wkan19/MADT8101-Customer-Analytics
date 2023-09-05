@@ -70,8 +70,8 @@ In this step, I cleaned and processed the data as follows:
 * **Check and Drop Columns with more than 30% of missing value**
 * **Handle Null**
 * **Check and Remove Duplicate Value**
-*  **Check and Remove Columns with Outliers**
-*  **One-hot Encoding the Categorical Data**
+* **Check and Remove Columns with Outliers**
+* **One-hot Encoding the Categorical Data**
 
 Then after processing the data, I split the variables into X and Y for classification models. 
 
@@ -91,9 +91,9 @@ The models I experimented with are:
 
 After that, since the data of churned customers is imbalanced, I introduced methods to handle it: 
 
-*SMOTE
-*Oversampling
-*Undersampling
+* SMOTE
+* Oversampling
+* Undersampling
 
 and also tuned the models 
 
@@ -102,6 +102,13 @@ and also tuned the models
 Here is the result of the experimented models.
 
   ![churn-model-result](./churn-model-result.png)
+
+The model I selected is  **Oversampling and XGBoost Classifier** which have the evaluation as follows. 
+
+ ![churn-selected-confusion-matrix](./churn-selected-confusion-matrix.png)
+
+  ![churn-selected-auc](./churn-selected-auc.png)
+
 
 ### Reference:
 Provost, F., & Fawcett, T. (2013). Data science for business: What you need to know about data mining and data-analytic thinking. O'Reilly Media, Inc.
