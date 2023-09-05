@@ -148,6 +148,18 @@ Here are the important features that contribute to the selected model:  **Oversa
 
 📌 **The business can combine the top extracted features with *Customer Scoring* to determine the score.**
 
+ 
+## Business Recommendations 🌟
+
+* The business should determine what they will do with the results of the churn prediction. They need to decide whether they will try to retain customers who have a high churn probability, and if so, whether it is worth the cost.
+* The business should be cautious when trying to retain customers who are about to churn. Sometimes, the "triggers" that businesses use to try to retain customers can actually increase the churn probability.
+* The business should develop strategies to lower the churn probability. This could involve improving customer service, offering discounts or incentives, or making changes to the product or service.
+
+## Further Analysis
+
+* The business can further analyze the churn prediction results to see if there are any patterns. For example, they could look at whether the churn probability is higher for certain types of customers, or at certain times of year.
+* The business could also use the churn prediction results to predict whether customers who have churned will reactivate. This could help the business to target its marketing efforts more effectively.
+* Finally, the business could use the churn prediction results to predict whether customers who have reactivated will churn again. This could help the business to identify customers who need extra support to stay engaged.
 
 ### Reference:
 Provost, F., & Fawcett, T. (2013). Data science for business: What you need to know about data mining and data-analytic thinking. O'Reilly Media, Inc.
