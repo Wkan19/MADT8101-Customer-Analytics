@@ -78,7 +78,7 @@ Then after processing the data, I split the variables into X and Y for classific
   ![churn-split-data](./churn-split-data.png)
 
 
-### Classification Models
+### Classification Models 🧩🔧
 
 In this step, 60% of the data will be used for training models, while the remaining 40% will be used for testing. 
 
@@ -97,7 +97,7 @@ After that, since the data of churned customers is imbalanced, I introduced meth
 
 and also tuned the models 
 
-### Evaluate the models 🏅
+### Evaluate the models 🎯
 
 Here is the result of the experimented models.
 
@@ -108,6 +108,16 @@ The model I selected is  **Oversampling and XGBoost Classifier** which have the 
  ![churn-selected-confusion-matrix](./churn-selected-confusion-matrix.png)
 
   ![churn-selected-auc](./churn-selected-auc.png)
+
+
+### Feature Importance 🏅
+
+Here are the important features that contribute to the selected model:  **Oversampling and XGBoost Classifier** 
+
+ ![churn-selected-features](./churn-selected-features.png)
+ 
+
+📌 **The business can combine the top extracted features with *Customer Scoring* to determine the score.**
 
 
 ### Reference:
