@@ -23,7 +23,44 @@ In this case, the customer I explored is a *non-contractual customer*, which mea
 ## Process ⚙️
 **Notebook:** [Churn Prediction](https://github.com/Wkan19/MADT8101-Customer-Analytics/blob/main/Customer%20Scoring%20and%20Basic%20Churn%20Prediction/GitHub_Churn_Prediction.ipynb)
 
+### Explore Data 
 
+In this step, I explored the dataset using different approaches as following: 
+
+* Data Type
+  
+   ![churn-dtype](./churn-dtype.png)
+
+* Check for null
+
+   ![churn-isna](./churn-isna.png)
+
+  * Check for the unique value
+
+  I also explored the dataset by visualizing its variables, for example
+
+  * Average Tenure by Churn
+ 
+   ![churn-avgten-churn](./churn-avgten-churn.png)
+
+  * Number of Customers by Churn
+
+   ![churn-nocust-churn](./churn-nocust-churn.png)
+
+  * Hour Spend on App by Churn
+ 
+  ![churn-hourspend-churn](./churn-hourspend-churn.png)
+
+  * Number of Coupons Used by Churn
+  
+  ![churn-nocoup-churn](./churn-nocoup-churn.png)
+
+  * Churned Customers by Number of Coupon Used
+ 
+  ![churn-nochurn-coup](./churn-nochurn-coup.png)  
+    
+
+  
 
 
 
