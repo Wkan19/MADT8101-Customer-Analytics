@@ -31,7 +31,8 @@ I'm excited to share my work with you. These projects were created during my stu
    
  - [Voice of Customer Analytics](https://github.com/Wkan19/MADT8101-Customer-Analytics/tree/main/Voice%20of%20Customer%20Analytics)
 
- ![GG-Colab badge](https://img.shields.io/badge/-Google--Colab-blue.svg) ![Python badge](https://img.shields.io/badge/-Python-green.svg)
+ ![GG-Colab badge](https://img.shields.io/badge/-Google--Colab-blue.svg) ![Python badge](https://img.shields.io/badge/-Python-green.svg)  ![PyThaiNLP badge](https://img.shields.io/badge/-PyThaiNLP-orange.svg) ![Topic-Modeling badge](https://img.shields.io/badge/-Topic--Modeling-orange.svg)
+
 
 
 
