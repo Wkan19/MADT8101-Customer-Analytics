@@ -46,3 +46,6 @@ In the new CLV formula, I have added the **average spending on additional servic
 ![clv-result](./clv-result.png)
 
 
+## Conclusion 
+
+Since businesses can measure the value of each customer or the expected monetary amount they would generate for the business, they can use this information alone or combine it with other customer analytics methods to come up with appropriate strategies to approach each customer with the aim of minimizing costs and maximizing revenue.
