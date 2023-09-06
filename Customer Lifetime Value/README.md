@@ -21,6 +21,19 @@ In the new CLV formula, I have added the **average spending on additional servic
 
 ![clv-v2](./clv-v2.png)
 
+*Assume Lifespan is 1 Year*
+
+**Variables Definition**
+
+* **Average Transaction Amount per Stay:** The average spending a customer makes during their stay in business. This includes room charges, dining expenses, and any other core services offered by the business.
+
+* **Average Number of Stays per Year:** The number of times a customer returns to the hotel within a year. It accounts for repeat visits.
+
+* **Average Length of Stay:** The average duration of a customer's stay during each visit.
+
+* **Average Spending on Additional Services per Stay:** The average amount of money a customer spends on additional services such as spa treatments, room upgrades, or recreational activities.
+
+* **Customer Acquisition Cost:** The expenses incurred in marketing, sales, and other efforts to acquire and retain a customer.
 
 ### Example 
 * **Dataset:** [Hotel Booking](https://github.com/Wkan19/MADT8101-Customer-Analytics/blob/main/Customer%20Lifetime%20Value/GitHub%20Generate%20Hotel%20Booking.csv)
