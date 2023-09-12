@@ -72,6 +72,8 @@ Here is my recommendation on how the business can treat customers according to e
    
    ![seg_1_3](./seg_1_3.png)
 
+   
+
 # Product Recommendation 🔎
 Product recommendation is the process of suggesting products to customers based on their past purchase history, browsing behavior, and other factors. The goal of product recommendation is to help customers find products that they are interested in and likely to buy.
 
