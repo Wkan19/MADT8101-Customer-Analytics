@@ -71,10 +71,12 @@ K-means Clustering: Based on the selected K value, we perform K-means clustering
 Product recommendation is the process of suggesting products to customers based on their past purchase history, browsing behavior, and other factors. The goal of product recommendation is to help customers find products that they are interested in and likely to buy.
 
 ## What's in this project 💼
-In this part, I explain the concept of how can i conduct the Product Recommendation by using the datasets fron the networking business. 
+In this part, I will explain how to conduct Product Recommendations using the datasets from the networking business as a **concept**.
 
 ## How 🔦
-
+   ![rec_con](./rec_con.png)
+ ![rec_flow](./rec_flow.png)
+  ![rec_example](./rec_example.png)
 
 ### Reference
 Reference: Kumar, V. (2010). Customer Relationship Management. Wiley. ISBN: 978-0-470-48331-0.
