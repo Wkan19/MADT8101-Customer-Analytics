@@ -42,7 +42,7 @@ After I prepared the Customer Single View dataset, I used it for the rest of the
 
   ![seg_elbow](./seg_elbow.png)
  
-K-means Clustering: Based on the selected K value, we perform K-means clustering to group customers into distinct segments. The Silhouette Coefficient is calculated to assess the quality of clustering.
+K-means Clustering: Based on the selected K value, perform K-means clustering to group customers into distinct segments. The Silhouette Coefficient is calculated to assess the quality of clustering.
 * **Silhouette Score**
 
    ![seg_sill](./seg_sill.png)
