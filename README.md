@@ -26,7 +26,7 @@ I'm excited to share my works with you. These projects were created during my st
 
  - [Customer Segmentation and Product Recommendation](https://github.com/Wkan19/MADT8101-Customer-Analytics/tree/main/Customer%20Segmentation%20and%20Product%20Recommendation)
 
- ![GG-Colab badge](https://img.shields.io/badge/-Google--Colab-blue.svg) ![Python badge](https://img.shields.io/badge/-Python-green.svg)
+![Concept badge](https://img.shields.io/badge/-Concept-blue.svg) ![Presentation badge](https://img.shields.io/badge/-Presentation-blue.svg) ![GG-Colab badge](https://img.shields.io/badge/-Google--Colab-blue.svg) ![Python badge](https://img.shields.io/badge/-Python-green.svg)  ![Dataiku badge](https://img.shields.io/badge/-Dataiku-green.svg)  ![Clustering badge](https://img.shields.io/badge/-Clustering-orange.svg)  ![K-Means badge](https://img.shields.io/badge/-K--Means-orange.svg) 
    
  - [Voice of Customer Analytics](https://github.com/Wkan19/MADT8101-Customer-Analytics/tree/main/Voice%20of%20Customer%20Analytics)
 
