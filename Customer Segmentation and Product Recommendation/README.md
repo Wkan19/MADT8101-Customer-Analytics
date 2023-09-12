@@ -74,9 +74,17 @@ Product recommendation is the process of suggesting products to customers based 
 In this part, I will explain how to conduct Product Recommendations using the datasets from the networking business as a **concept**.
 
 ## How 🔦
+
+* The product recommendation logic relies on how similar the customers or in this case 'ent' purchase behavior is.
+  
    ![rec_con](./rec_con.png)
+
+* This can be processed using the Apriori algorithm. The Apriori algorithm is a frequent itemset mining algorithm that can be used to find patterns in data.
  ![rec_flow](./rec_flow.png)
+
+* In this case, the patterns are the products that are commonly purchased together. Here is some result of Buy Together products. 
   ![rec_example](./rec_example.png)
+
 
 ### Reference
 Reference: Kumar, V. (2010). Customer Relationship Management. Wiley. ISBN: 978-0-470-48331-0.
