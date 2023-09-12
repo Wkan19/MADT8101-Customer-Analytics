@@ -70,11 +70,11 @@ K-means Clustering: Based on the selected K value, we perform K-means clustering
 ## Business Recommendations 🌟
 Here is my recommendation on how the business can treat customers according to each segment in order to increase, maintain, and encourage them to interact with the business.
 
-   ![seg_2_0](./seg_2_0.png)
+   ![seg_2_0](./seg_2_0.jpg)
    
-   ![seg_1_3](./seg_1_3.png)
+   ![seg_1_3](./seg_1_3.jpg)
 
-   
+  
 
 # Product Recommendation 🔎
 ![Concept badge](https://img.shields.io/badge/-Concept-blue.svg) ![Presentation badge](https://img.shields.io/badge/-Presentation-blue.svg) 
