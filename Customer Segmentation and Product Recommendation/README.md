@@ -12,16 +12,20 @@ I used Dataiku to explore and prepare the raw datasets, and then I used Python t
 
 
 ## Prepare Data to CSV 🔦
-I prepared the member dataset using Dataiku, here is the work flow.
+I prepared the member dataset using Dataiku, here is the workflow.
   ![seg_flow](./seg_flow.png)
 
 And this is some of the prepared dataset.
+
+
  ![seg_iku](./seg_iku.png)
 
 
 ## Process ⚙️
+After I prepared the Customer Single View dataset, I used it for the rest of the processes in Python.
 
 * **Data Loading and Exploration:**  In addition to importing the relevant libraries and dataset, here is the information about it.
+  
    ![seg_csv_info](./seg_csv_info.png)
  
 * **Convert Data Type**
