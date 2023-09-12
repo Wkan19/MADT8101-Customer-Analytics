@@ -10,6 +10,15 @@ I used Dataiku to explore and prepare the raw datasets, and then I used Python t
 * **Dataset:** [Customer Single View](https://github.com/Wkan19/MADT8101-Customer-Analytics/blob/main/Customer%20Segmentation%20and%20Product%20Recommendation/csv.zip)
 * There are 4 provided datasets from a **Networking Business**: 1 data member dataset and 3 transactions between 2021 - 2023 (*but since transaction 2021 has some missing data, thus I don't use it*) and I used the data member dataset to **create Customer Single View in Dataiku**
 
+
+## Prepare Data to CSV 🔦
+I prepared the member dataset using Dataiku, here is the work flow.
+  ![seg_flow](./seg_flow.png)
+
+And this is some of the prepared dataset.
+ ![seg_iku](./seg_iku.png)
+
+
 ## Process ⚙️
 
 * **Data Loading and Exploration:**  In addition to importing the relevant libraries and dataset, here is the information about it.
@@ -35,9 +44,8 @@ K-means Clustering: Based on the selected K value, we perform K-means clustering
 * **PCA Visualization:** Principal Component Analysis (PCA) is applied to reduce the dimension. I visualized the clusters in a scatterplot to gain insights into their distribution.
    ![seg_pca](./seg_pca.png)
   
-* **Result:** Here is the result [Cluster Result]
+* **Result:** Here is the result [Cluster Result](https://github.com/Wkan19/MADT8101-Customer-Analytics/blob/main/Customer%20Segmentation%20and%20Product%20Recommendation/cluster_results.zip)
 
-### Prepare Data to CSV 🔦
 
 
 ### Feature Importance 🏅
