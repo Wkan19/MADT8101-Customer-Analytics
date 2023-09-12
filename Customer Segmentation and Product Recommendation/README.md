@@ -1,4 +1,6 @@
 # Customer Segmentation 🔎
+![Concept badge](https://img.shields.io/badge/-Concept-blue.svg) ![Presentation badge](https://img.shields.io/badge/-Presentation-blue.svg) ![GG-Colab badge](https://img.shields.io/badge/-Google--Colab-blue.svg) ![Python badge](https://img.shields.io/badge/-Python-green.svg)  ![Dataiku badge](https://img.shields.io/badge/-Dataiku-green.svg)  ![Clustering badge](https://img.shields.io/badge/-Clustering-orange.svg)  ![K-Means badge](https://img.shields.io/badge/-K--Means-orange.svg) 
+
 Customer segmentation is where customers are grouped into distinct categories based on shared characteristics. It helps businesses tailor their offerings to meet the unique needs of each group, improving customer satisfaction and profitability.
 
 ## What's in this project 💼
@@ -75,6 +77,8 @@ Here is my recommendation on how the business can treat customers according to e
    
 
 # Product Recommendation 🔎
+![Concept badge](https://img.shields.io/badge/-Concept-blue.svg) ![Presentation badge](https://img.shields.io/badge/-Presentation-blue.svg) 
+
 Product recommendation is the process of suggesting products to customers based on their past purchase history, browsing behavior, and other factors. The goal of product recommendation is to help customers find products that they are interested in and likely to buy.
 
 ## What's in this project 💼
