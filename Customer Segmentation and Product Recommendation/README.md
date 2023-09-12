@@ -50,7 +50,9 @@ K-means Clustering: Based on the selected K value, we perform K-means clustering
   
 * **Result:** Here is the result [Cluster Result](https://github.com/Wkan19/MADT8101-Customer-Analytics/blob/main/Customer%20Segmentation%20and%20Product%20Recommendation/cluster_results.zip)
 
-
+* **Cluster Summarize**
+    ![clust_sum](./clust_sum.png)
+  
 
 ### Feature Importance 🏅
 
@@ -64,8 +66,11 @@ K-means Clustering: Based on the selected K value, we perform K-means clustering
    ![seg_features](./seg_features.png)
   
 ## Business Recommendations 🌟
+Here is my recommendation on how the business can treat customers according to each segment in order to increase, maintain, and encourage them to interact with the business.
 
-
+   ![seg_2_0](./seg_2_0.png)
+   
+   ![seg_1_3](./seg_1_3.png)
 
 # Product Recommendation 🔎
 Product recommendation is the process of suggesting products to customers based on their past purchase history, browsing behavior, and other factors. The goal of product recommendation is to help customers find products that they are interested in and likely to buy.
