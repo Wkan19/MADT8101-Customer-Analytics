@@ -38,7 +38,7 @@ Customer Churn Prediction is a data-driven process in which historical customer 
 
 
 ## What's in this project 💼
-In this work, I explored the E-Commerce Customer Dataset with *Churn Prediction* to determine the probability of customer churn. I did this by **exploring the data set, processing it, testing it with different classification models, evaluating the results, and exploring the feature importance**.
+In this work, I explored the E-Commerce Customer Dataset with *Churn Prediction* to determine the probability of customer churn. I did this by **exploring the dataset, processing it, testing it with different classification models, evaluating the results, and exploring the feature importance**.
 
 In this case, the customer I explored is a *non-contractual customer*, which means there is no clear end date for when the customer will actually churn.
 
