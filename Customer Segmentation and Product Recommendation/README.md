@@ -10,7 +10,7 @@ I used Dataiku to explore and prepare the raw datasets, and then I used Python t
 * **Notebook:** [Customer Segmentation](https://github.com/Wkan19/MADT8101-Customer-Analytics/blob/main/Customer%20Segmentation%20and%20Product%20Recommendation/GitHub_Customer_Segmentation.ipynb)
 
 * **Dataset:** [Customer Single View](https://github.com/Wkan19/MADT8101-Customer-Analytics/blob/main/Customer%20Segmentation%20and%20Product%20Recommendation/csv.zip)
-* There are 4 provided datasets from a **Networking Business**: 1 data member dataset and 3 transactions between 2021 - 2023 (*but since transaction 2021 has some missing data, thus I don't use it*) and I used the data member dataset to **create Customer Single View in Dataiku**
+* There are 4 provided datasets from a **Networking Business**: 1 data member dataset and 3 transactions datasets between 2021 - 2023 (*but since transaction 2021 has some missing data, thus I don't use it*) and I used the data member dataset to **create Customer Single View in Dataiku**
 
 
 ## Prepare Data to CSV 🔦
